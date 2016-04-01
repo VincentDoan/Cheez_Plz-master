@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trap
+  - Box
+  - New Tag
+  - Ghost
+  - DestroyBullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Pit
+  - Player
+  - PickUpObjects
+  - MapUI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Pit
+    uniqueID: 1281642601
+    locked: 0
+  - name: Player
+    uniqueID: 2330578779
+    locked: 0
+  - name: PickUpObjects
+    uniqueID: 4189807521
+    locked: 0
+  - name: MapUI
+    uniqueID: 2898359203
+    locked: 0
